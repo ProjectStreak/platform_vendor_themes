@@ -1,2 +1,2 @@
 # Fonts
-include vendor/themes/fonts.mk
+include vendor/themes/fonts/fonts.mk
